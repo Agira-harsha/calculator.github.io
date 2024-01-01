@@ -95,3 +95,18 @@ button:active {
 #special{
     margin-top: -50px;
 }
+@media only screen  and (max-width: 400px){
+     .contaior{
+
+        height: 60vh;
+        width: 40vh;
+        margin-top: 50px;
+        margin-bottom: 10px;
+
+        
+       
+
+        
+        
+    }
+}
